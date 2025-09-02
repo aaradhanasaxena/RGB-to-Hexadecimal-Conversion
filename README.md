@@ -3,5 +3,7 @@ A lightweight JavaScript utility that converts RGB color strings (e.g., rgb(255,
 
 ✨ Features
 ✅ Extracts RGB values using regular expressions
+
 🔄 Converts each value to a 2-digit hexadecimal format
+
 🎯 Returns a valid hex color code with # prefix
