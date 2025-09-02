@@ -1,5 +1,5 @@
 🎨 RGB-to-Hexadecimal Conversion
-A lightweight JavaScript utility that converts RGB color strings (e.g., rgb(255, 255, 255)) into their hexadecimal equivalents (#ffffff). This project demonstrates string parsing, number conversion, and modular logic—ideal for showcasing clean, readable code and front-end fundamentals.
+A lightweight JavaScript utility that converts RGB color strings (e.g., rgb(255, 255, 255)) into their hexadecimal equivalents (#ffffff). This challenge showcases string parsing, number conversion, and modular logic—ideal for showcasing clean, readable code and front-end fundamentals.
 
 ✨ Features
 ✅ Extracts RGB values using regular expressions
